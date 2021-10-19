@@ -1,7 +1,7 @@
 body {
   background: rgba(0, 0, 0, 0.9);
   margin: 0;
-  color: #fff;
+  color: rgb(197, 193, 193);
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -84,8 +84,8 @@ body {
 }
 
 .bg-light {
-  background: #fff;
-  color: #333;
+  background: rgb(77, 75, 75);
+  color: rgb(165, 165, 165);
 }
 
 .bg-dark {
@@ -118,8 +118,8 @@ footer p {
   }
 
   .header-content .logo {
-    height: 600px;
-    width: 600px;
+    height: 200px;
+    width: 200px;
   }
 
 

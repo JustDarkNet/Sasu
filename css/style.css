@@ -98,6 +98,9 @@ body {
 .services {
   padding: 2rem 0;
   margin: auto;
+  background: rgba(0, 0, 0, 0.9);
+  margin: 0;
+  color: rgb(235, 233, 233);
 }
 
 footer {

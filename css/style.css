@@ -37,7 +37,7 @@ body {
   margin-top: 105px;
   margin-left: -145px;
   width: 300px;
-  height: 350px;
+  height: 300px;
   text-align: center;
   transition: all 1000ms;
 }
@@ -74,18 +74,20 @@ body {
 
 .grid-2 {
   display: grid;
-  grid-grap: 20px;
+  grid-gap: 5px;
   grid-template-columns: repeat(2, 1fr);
 }
 
 .text-center {
   text-align: center;
   margin: auto;
+  padding: auto;
 }
 
 .bg-light {
   background: rgb(77, 75, 75);
   color: rgb(165, 165, 165);
+  margin: auto;
 }
 
 .bg-dark {
@@ -95,6 +97,7 @@ body {
 
 .services {
   padding: 2rem 0;
+  margin: auto;
 }
 
 footer {
@@ -125,6 +128,7 @@ footer p {
 
   .header-content .text {
     display: none;
+    text-align: left;
   }
   
  
